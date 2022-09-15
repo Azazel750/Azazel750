@@ -1,4 +1,5 @@
 
+
 ### Hi there  
 ### <div align="center">I'm Mete, Im trying to improve myself and learn more about Unity and 3D modelling for 2 years</div>  
   
@@ -62,7 +63,13 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Azazel750&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>    
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
 
   
 
